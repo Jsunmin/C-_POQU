@@ -1,0 +1,12 @@
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/bin/Debug/netcoreapp3.1/IntroducingOfProgramming.deps.json
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/bin/Debug/netcoreapp3.1/IntroducingOfProgramming.runtimeconfig.json
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/bin/Debug/netcoreapp3.1/IntroducingOfProgramming.runtimeconfig.dev.json
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/bin/Debug/netcoreapp3.1/IntroducingOfProgramming.dll
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/bin/Debug/netcoreapp3.1/IntroducingOfProgramming.pdb
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/obj/Debug/netcoreapp3.1/IntroducingOfProgramming.AssemblyInfoInputs.cache
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/obj/Debug/netcoreapp3.1/IntroducingOfProgramming.AssemblyInfo.cs
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/obj/Debug/netcoreapp3.1/IntroducingOfProgramming.dll
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/obj/Debug/netcoreapp3.1/IntroducingOfProgramming.pdb
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/obj/Debug/netcoreapp3.1/IntroducingOfProgramming.csprojAssemblyReference.cache
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/obj/Debug/netcoreapp3.1/IntroducingOfProgramming.csproj.CoreCompileInputs.cache
+/Users/jeongseonmin/Desktop/C#/IntroducingOfProgramming/IntroducingOfProgramming/obj/Debug/netcoreapp3.1/IntroducingOfProgramming.genruntimeconfig.cache
